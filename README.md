@@ -8,7 +8,7 @@ Neural network to classification poker hand in Tensorflow.
 
 ### Network architecture
 
-![Network architecture](/architecture.png)
+![Network architecture](/poker_architecture.png)
 
 ## Requirements
 
@@ -17,6 +17,6 @@ Neural network to classification poker hand in Tensorflow.
 * [Pandas](https://pandas.pydata.org) - Data analysis library
 * [Matplotlib](https://matplotlib.org) - Plotting library
 
-## Authors
+## Author
 
 * **Przemysław Kanach** - [Przemysław Kanach](https://github.com/Przemoo16)
