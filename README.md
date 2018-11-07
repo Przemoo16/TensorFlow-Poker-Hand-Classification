@@ -8,7 +8,7 @@ Neural network to classification poker hand in Tensorflow.
 
 ### Network architecture
 
-.left[![Network architecture](/architecture.png)]
+![Network architecture](/architecture.png)
 
 ## Requirements
 
