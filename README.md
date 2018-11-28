@@ -1,6 +1,6 @@
 # Tensorflow Poker Hand Classification
 
-Neural network to classification poker hand in Tensorflow.
+Neural network for classifying poker hand in Tensorflow.
 
 ## Info about dataset
 
