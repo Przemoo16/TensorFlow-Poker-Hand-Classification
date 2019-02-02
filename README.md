@@ -13,7 +13,7 @@ Neural network for classifying poker hand in Tensorflow. We train model on "Poke
 ## Requirements
 
 * [Tensorflow](https://www.tensorflow.org) - Deep learning framework
-* [Numpy](http://www.numpy.org) - Library to computation on arrays
+* [Numpy](http://www.numpy.org) - Package for scientific computing
 * [Pandas](https://pandas.pydata.org) - Data analysis library
 * [Matplotlib](https://matplotlib.org) - Plotting library
 
